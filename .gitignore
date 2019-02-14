@@ -103,6 +103,7 @@ vignettes/*.pdf
 *.nb
 # Untracked Folders #
 #####################
+Mathematica/*
 output/*
 doc/notes/*
 # Untracked Files for public repo #
