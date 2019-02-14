@@ -18,4 +18,4 @@ Citing information for the resulting paper will be provided when it is made [ava
 
 ## Contact & bug reporting
 
-Please report any bugs, problems, or issues by opening an issue on the XvAutosomeInversions github [issues page](https://github.com/colin-olito/inversionSize/issues). If you would like to report a bug/issue, and do not have a github account (and don't want to get one), please send a brief email detailing the problem you encountered to colin.olito at biol dot lu dot se.
+Please report any bugs, problems, or issues by opening an issue on the inversionSize github [issues page](https://github.com/colin-olito/inversionSize/issues). If you would like to report a bug/issue, and do not have a github account (and don't want to get one), please send a brief email detailing the problem you encountered to colin.olito at biol dot lu dot se.
