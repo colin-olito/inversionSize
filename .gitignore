@@ -103,9 +103,13 @@ vignettes/*.pdf
 *.nb
 # Untracked Folders #
 #####################
+data/*
+doc/*
 Mathematica/*
 output/*
+notes/*
 doc/notes/*
+papers/*
 # Untracked Files for public repo #
 ###################################
-*CoverLetter*.tex
+R/HitchhikingModel-CJO.R
